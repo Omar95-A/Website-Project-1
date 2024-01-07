@@ -1,27 +1,11 @@
-# ECommerceWebApp
+# Website Project 1
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
+> A Website Called `Don't Give Up` Is a Online Social Counseling Platform. Provide Online Counseling Services. For Get Support and Guidance From a Licensed Therapist.
 
-## Development server
+I used HTML, CSS, Icon library from Font Awesome and normalize.css v8.0.1 its A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line with modern standards.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+#### To try the website: [Demo](https://omar95-a.github.io/Website-Project-1/).
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+It's my first template that I worked on. For work on this website i used [Leon - PSD Agency Template](https://www.graphberry.com/item/leon-psd-agency-template) which I took sketch from the [Graphberry](https://www.graphberry.com) website. 
+<br><br>
+I learned how can I use the html & css professionally in design the websites with Eng. [Osama Elzero](https://elzero.org/category/courses/html-and-css-practice/)
